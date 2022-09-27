@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.divider{
+    
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+.textbox{
+    width: 700px;
+    height: 180px;
+    margin:auto;
+}
